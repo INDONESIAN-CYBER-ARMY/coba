@@ -17,7 +17,7 @@ tahun = tahun - tahun_lahir
 tambah = tahun + 1
 print ("# Jika Bulan lahir belum sampai ditahun 2019 Umur kamu: %s" % tahun)
 print ("# Jika Bulan lahir sudah sampai ditahun 2019 Umur kamu: %s" % tambah)
-print ("         >>>>>>>>>> created by: Cyber_Hansome <<<<<<<<<< ")
+print ("         >>>>>>>>>> created by: CYB3R_H4NS0M3 <<<<<<<<<< ")
 
 
 
